@@ -1,7 +1,12 @@
 Aplikacja do organizacji kolacji na wieczór wigilijny i obiadu w drugi dzięń swiąt.
 
-Pierwszym wymiarem obsługi zadania 'Wigilia_2023_i_2_dni_świąt' jest określenie, czy danie robimy sami,
-czy kupujemy gotowe.
+Wyróżnikiem jest to, że menu jest bezglutenowe.
+
+Na podstawie przepisów szacuję ilości składników, łączę je w jedną listę zakupową, zapisuję koszty związane z 
+organizacją kolacji, a także ustalam plan działan na poszcególne dni, wraz z dynamiczną listą przepisów, dopasowaną
+do zadąń na dany dzień.
+
+Pierwszym wymiarem obsługi zadania jest określenie, czy danie robimy sami, czy kupujemy gotowe.
 
 Jeśli robimy sami, wywołuje to następujące obszary troski:
 * składniki + sposób przygotowania;
@@ -19,7 +24,7 @@ Opcjonalnie:
 * opis sposobu przygotowania w dłuższej perspektywie umożliwia utrzymanie odpowiedniego smaku oraz otwiera pole
 do eksperymentowania ze smakami i teksturą w czasie następnych Wigilii i innych Świąt.
 
-Kierunki rozwoju:
+Ew. kierunki rozwoju:
 * W tym kontekście fajnie byłoby zebrać feedback od uczestników, a także zrobić zdjęcia potraw.
 * Jeśli pójdziemy w tym kierunku, wówczas prawdopodobnie przerobię ten projekt w kierunku bazy danych Postgres
 SQL na aws. Umożliwi to wystandaryzowanie pól, stworzy możliwość dodawania zdjęć, komentarzy, modyfikacji, może
