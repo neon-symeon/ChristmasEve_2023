@@ -29,9 +29,6 @@ class ProductionStage(Enum):
     IN_PROGRESS = auto()
     RESOLVED = auto()
     CLOSED = auto()
-    # REOPENED = auto()
-    # CANCELED = auto()
-    # ON_HOLD = auto()
 
 
 products_categories = {
