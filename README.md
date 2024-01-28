@@ -25,6 +25,6 @@ Opcjonalnie:
 do eksperymentowania ze smakami i teksturą w czasie następnych Wigilii i innych Świąt.
 
 Ew. kierunki rozwoju:
-* jeśli się sprawdzi, prosta wersja webowa na następne święta
-* Dodanie zrzucania do json i importu z json zmian (zrobione, timeline, itd.) znacznie ułatwiłoby prace z danymi.
+* jeśli się sprawdzi, prosta wersja webowa na następne święta.
+* Dodanie zrzucania do json i importu z yaml/json zmian (zrobione, timeline, itd.) uprości pracę z danymi.
 Na razie odpuszczam, ale przy kolejnym, np. wielkanocnym podejściu, warte rozpatrzenia (jeśli nie sql).
